@@ -8,6 +8,7 @@ This repository contains a detailed analysis of eCommerce sales data using SQL a
 
 ```
 ecommerce_sales_analysis/
+├── README.md
 ├── Dataset_source.txt
 ├── Jupyter_Notebook/
 │   ├── Python + Sql ecommerce.pdf
@@ -15,8 +16,7 @@ ecommerce_sales_analysis/
 ├── csv_to_sql.py
 ├── requirements.txt
 ├── Questions.txt
-├── LICENSE
-└── README.md 
+└── LICENSE
  
 ```
 
